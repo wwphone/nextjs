@@ -7,7 +7,7 @@
     "snyk": "./node_modules/.bin/snyk test"
   },
   "dependencies": {
-    "@babel/core": "7.7.7",
+    "@babel/core": "7.22.1",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
