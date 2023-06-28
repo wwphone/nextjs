@@ -12,7 +12,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "save": "^2.9.0",
-    "snyk": "^1.1132.0"
+    "snyk": "^1.1175.0"
   },
   "devDependencies": {
     "husky": "^8.0.3"
